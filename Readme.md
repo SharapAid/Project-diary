@@ -1,4 +1,4 @@
-
+```markdown
 ╭────────────────────╮
 │     ~ Diary ~      │
 ╰────────────────────╯
@@ -54,7 +54,7 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
     Passwords must be at least 6 characters and are verified during login/change/delete
 
     Interface is entirely terminal-based using std::cin and std::cout
-
+    
 
 👩‍💻 Author
 
@@ -63,6 +63,7 @@ Created by — SharapAid
 
 🖼️ Program Example
 
+```markdown
 Welcome to the Diary App!
 
 _______________MENU_____________
@@ -93,3 +94,4 @@ Enter text of diary*: Today I discovered a minimalist C++ diary app!
 Entry saved successfully.
 
 Returning to user menu...
+```
