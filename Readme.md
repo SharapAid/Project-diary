@@ -1,6 +1,8 @@
+```
 ╭────────────────────╮
 │     ~ Diary ~      │
 ╰────────────────────╯
+```
 
 📓 **Project Diary** — Console-Based C++ Journal App
 
@@ -33,12 +35,16 @@ Project Diary is a minimalist, fast, and local journal application written in pu
 # 1. Clone the repository
 git clone https://github.com/SharapAid/Project-diary.git
 cd Project-diary
+```
 
+```bash
 # 2. Compile with g++
 g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 
+```bash
 # 3. Run the application
 ./diary_app
+```
 
 📌 Notes
 
@@ -51,6 +57,7 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 👩‍💻 Author
 
 Created by — SharapAid
+
 
 🖼️ Program Example
 
@@ -68,7 +75,7 @@ Enter name*: Vika
 Enter password*: ********
 Login successful!
 
-__________MENU USER: Vika__________
+__________MENU USER: SharapAid__________
 What would you like to do?
 1 - Write a diary entry
 2 - Read all entries
@@ -78,7 +85,7 @@ What would you like to do?
 0 - Exit to main menu
 Enter your choice: 1
 
-__________WRITE DIARY ENTRY__________
+__________WRITE DIARY__________
 Enter text of diary*: Today I discovered a minimalist C++ diary app!
 
 Entry saved successfully.
