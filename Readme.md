@@ -77,7 +77,7 @@ What do you want to do?
 Enter your choice: 1
 
 _______________SIGN IN____________
-Enter name*: Vika
+Enter name*: SharapAid
 Enter password*: ********
 Login successful!
 
