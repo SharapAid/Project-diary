@@ -1,6 +1,7 @@
 ╭────────────────────╮
 │    ~ D i a r y ~   │
 ╰────────────────────╯
+
 # 📓 Project Diary — Console-Based C++ Journal App
 
 **Project Diary** is a minimalist, fast, and local journal application written in pure **C++**, using **SQLite3** as its database. No frameworks, no web dependencies — just clean and modular C++ code.
