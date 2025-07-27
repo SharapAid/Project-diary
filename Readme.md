@@ -46,6 +46,7 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 # 3. Run the application
 ./diary_app
 ```
+---
 
 📌 Notes
 
@@ -55,11 +56,13 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 
   Interface is entirely terminal-based using std::cin and std::cout
     
+---
 
 👩‍💻 Author
 
 Created by — SharapAid
 
+---
 
 🖼️ Program Example
 
