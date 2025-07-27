@@ -49,11 +49,11 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 
 📌 Notes
 
-    All user data is stored locally in a .sqlite database file
+  All user data is stored locally in a .sqlite database file
 
-    Passwords must be at least 6 characters and are verified during login/change/delete
+  Passwords must be at least 6 characters and are verified during login/change/delete
 
-    Interface is entirely terminal-based using std::cin and std::cout
+  Interface is entirely terminal-based using std::cin and std::cout
     
 
 👩‍💻 Author
