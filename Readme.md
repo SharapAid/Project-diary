@@ -48,7 +48,7 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
 ```
 ---
 
-📌 Notes
+## 📌 Notes
 
   All user data is stored locally in a .sqlite database file
 
@@ -58,13 +58,13 @@ g++ -std=c++17 *.cpp -lsqlite3 -o diary_app
     
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Created by — SharapAid
 
 ---
 
-🖼️ Program Example
+## 🖼️ Program Example
 
 ```markdown
 Welcome to the Diary App!
